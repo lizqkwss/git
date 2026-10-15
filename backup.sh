@@ -2,5 +2,5 @@
 # Скрипт резервного копирования
 echo "Резервное копирование..."
 cp -r /home/user/documents /home/user/backup/
-echoo "Готово"
+echo "Готово"
 # Это комментарий
